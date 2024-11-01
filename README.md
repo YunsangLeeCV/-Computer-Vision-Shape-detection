@@ -1,6 +1,9 @@
 # C++ [Computer_Vision] Shape_detection
 
 #### 🎥 Preview:
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/2c6f90c5-5381-4dc5-a654-af7b7abcd672">
+
 
 
 ### Program Language:
