@@ -3,7 +3,6 @@
 #### 🎥 Preview:
 <p align="center">
 <img src= "https://github.com/user-attachments/assets/2c6f90c5-5381-4dc5-a654-af7b7abcd672">
-<img src= "https://github.com/user-attachments/assets/6556a93a-4aff-46f0-8301-284329d83f3a">
 
 
 
