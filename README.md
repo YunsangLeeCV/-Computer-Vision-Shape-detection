@@ -4,7 +4,7 @@
 
 
 ### Program Language:
-![dsad](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![dsad](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### 👨‍💻 Introduction:
 - The project is designed to detect three shapes and display their borders on the live video while comparing the results with adjusted settings. To achieve clear detection, additional techniques such as thresholding, Canny edge detection, and Gaussian blur were applied.
@@ -19,7 +19,6 @@
 Individual project
 
 #### 📌 Function:
-![image]()
 <p align="center">
  <img src= "https://github.com/user-attachments/assets/2ae7a4f1-2c2b-40fe-b3fd-5415f65d51f2">
 
