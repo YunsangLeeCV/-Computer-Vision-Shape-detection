@@ -10,7 +10,7 @@
 ![dsad](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### 👨‍💻 Introduction:
-- The project is designed to detect three shapes and display their borders on the live video while comparing the results with adjusted settings. To achieve clear detection, additional techniques such as thresholding, Canny edge detection, and Gaussian blur were applied.
+- The project is designed to detect three shapes(Triangle,quadrangle and Pentagon) and display their borders on the live video while comparing the results with adjusted settings. To achieve clear detection, additional techniques such as thresholding, Canny edge detection, and Gaussian blur were applied.
 
 #### ⚙️ Version:
 - C++ 14
