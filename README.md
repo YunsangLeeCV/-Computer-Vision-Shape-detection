@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4392fbc1-396c-41eb-8d99-fff15c7bc534)# -Computer-Vision-Shape-detection
+# C++ [Computer_Vision] Shape_detection
 
 #### 🎥 Preview:
 
