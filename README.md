@@ -2,9 +2,7 @@
 
 #### 🎥 Preview:
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/2c6f90c5-5381-4dc5-a654-af7b7abcd672">
-
-
+<img src= "https://github.com/user-attachments/assets/b411faf0-f35c-4e5c-bd77-320e51e42ece">
 
 ### Program Language:
 ![dsad](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
